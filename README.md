@@ -1,5 +1,7 @@
 # HiveMind - Multi-Agent Operating System
 
+[![CI](https://github.com/moggan1337/HiveMind/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/HiveMind/actions/workflows/ci.yml)
+
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
@@ -17,6 +19,24 @@
 ```
 
 HiveMind is a revolutionary operating system where **every process is an agent**. Built on event streams and message passing, it provides a distributed, fault-tolerant, and highly scalable multi-agent computing platform.
+
+## 🎬 Demo
+![HiveMind Demo](demo.gif)
+
+*Multi-agent system with distributed intelligence*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Agent Network | ![network](screenshots/network.png) |
+| Message Stream | ![stream](screenshots/stream.png) |
+| Process Tree | ![tree](screenshots/process-tree.png) |
+
+## Visual Description
+Agent network displays connected processes with message flow arrows. Message stream shows events being processed in real-time. Process tree presents hierarchical agent relationships.
+
+---
+
 
 ## Table of Contents
 
